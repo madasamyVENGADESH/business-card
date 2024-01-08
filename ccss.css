@@ -1,0 +1,24 @@
+body{
+    margin: 20px;  
+    font-family: verdana;  
+}
+.dp
+{
+    width: 150px;
+
+}
+.card
+{   
+   width: 400px;
+    padding: 50px;
+    margin: 0px auto 0px auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    border-bottom: 8px solid #d8cefe;
+
+}
+.border{
+    border: 2px solid black;
+}
